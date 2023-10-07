@@ -1,5 +1,5 @@
 class Person {
   String? name;
-  Int? age;
+  int? age;
   String? gender;
 }
